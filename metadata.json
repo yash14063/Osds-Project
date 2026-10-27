@@ -1,0 +1,6 @@
+{
+  "name": "OSDS Paging & Memory Management Simulator",
+  "description": "Interactive operating system simulator demonstrating paging, page tables, virtual-to-physical address translation, 300-word frame allocation, instruction execution, and C++ reference implementation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
